@@ -1,0 +1,335 @@
+# Created by Octave 4.2.1, Tue Mar 13 23:08:37 2018 GMT <unknown@unknown>
+# name: solution
+# type: cell
+# rows: 40
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+Streamed
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+Bounced
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+Bounced
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+Bounced
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+Bounced
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+Bounced
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+Bounced
+
+
+
+
+
+# name: randTrials
+# type: matrix
+# rows: 41
+# columns: 3
+ 1 1 1
+ 2 2 1
+ 2 2 1
+ 1 1 1
+ 2 2 2
+ 1 1 2
+ 1 2 2
+ 2 1 1
+ 2 1 2
+ 1 2 2
+ 2 2 1
+ 2 1 1
+ 2 1 2
+ 1 2 1
+ 2 2 2
+ 1 2 2
+ 1 2 1
+ 1 2 1
+ 1 1 2
+ 1 2 1
+ 2 1 1
+ 2 2 1
+ 1 1 2
+ 2 2 2
+ 1 2 2
+ 2 2 2
+ 1 2 2
+ 1 2 1
+ 1 1 2
+ 1 1 1
+ 2 1 1
+ 2 2 2
+ 2 1 2
+ 1 1 1
+ 1 1 1
+ 1 1 2
+ 2 2 1
+ 1 1 1
+ 2 1 2
+ 2 1 1
+ 2 1 2
+
+
